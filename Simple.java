@@ -1,5 +1,5 @@
 class Simple{
     public static void main(String args[]){
-        System.out.println("Hello world for WebHook");
+        System.out.println("Hello world for WebHook1");
     }
 }
